@@ -1,2 +1,6 @@
-package fabiosimonelli;public enum EventTypes {
+package fabiosimonelli;
+
+public enum EventTypes {
+    PUBLIC,
+    PRIVATE
 }
